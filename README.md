@@ -1,3 +1,4 @@
+![logo](https://github.com/sutanaya123/sutanaya123/blob/main/canva.png)
 <h1 align="center">Hi 👋, I'm sutanaya chatterjee</h1>
 <h3 align="center">A passionate technical analyst from India</h3>
 
